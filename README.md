@@ -52,3 +52,12 @@ A new Flutter project.
 
 ### Hasil Output pada Browser
 ![alt](/images/13.png)
+
+## **Tugas Praktikum 1**
+### Implementasi project "basic_layout_flutter"
+Berikut link project basic_layout_flutter: https://github.com/cinthyaa19/basic_layout_flutter
+
+
+## **Praktikum 5: Membangun Navigasi di Flutter**
+Berikut link project basic_layout_flutter: https://github.com/cinthyaa19/belanja
+
